@@ -1,4 +1,4 @@
-const escola = [
+  const escola = [
 {
     nome : 'victor',
     endereco : "Rua Gov. Tiberio Nunes",
